@@ -1,0 +1,9 @@
+.venv
+
+## ignore all txt files in folders and subfolders
+*.txt
+*.feat
+*.vocab
+*.tar.gz
+
+.DS_Store
